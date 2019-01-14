@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Inventory_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty1">The store seems to be empty...</string>
+    <string name="empty2">Get started by adding a few products !</string>
+    <string name="name">Name: </string>
+    <string name="enter">Enter</string>
+    <string name="CurQty">Current Quantity</string>
+    <string name="price">Price (Rs): </string>
+    <string name="batch">Batch no.: </string>
+    <string name="track_sales">Track Sales</string>
+    <string name="Order_More">Order More</string>
+    <string name="Delete">Delete</string>
+    <string name="in_stock">In Stock: </string>
+    <string name="received">Received</string>
+    <string name="total">Total</string>
+    <string name="sold">Sold</string>
+    <string name="balance">Balance</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="shipReceived">Shipment Received</string>
+    <string name="itemSold">Item Sold</string>
+    <string name="shipment">Shipment Received</string>
+    <string name="soldI">Items Sold</string>
+    <string name="updateButton">Update Quantity</string>
+    <string name="email">Email ID</string>
+    <string name="sell1">Sell one item</string>
+</resources>
